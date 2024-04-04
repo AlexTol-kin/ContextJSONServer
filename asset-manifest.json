@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ContextJSONServer/static/css/main.499c0038.css",
+    "main.js": "/ContextJSONServer/static/js/main.cb9504ce.js",
+    "index.html": "/ContextJSONServer/index.html",
+    "main.499c0038.css.map": "/ContextJSONServer/static/css/main.499c0038.css.map",
+    "main.cb9504ce.js.map": "/ContextJSONServer/static/js/main.cb9504ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.499c0038.css",
+    "static/js/main.cb9504ce.js"
+  ]
+}
